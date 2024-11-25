@@ -36,6 +36,10 @@ Connect to the Windows instance using RDP.
 s3bucket
 ![n](https://github.com/user-attachments/assets/f654eca1-a3d1-4235-b0af-232f9a136a41)
 EC2 INSTANCE(WINDOWS)
+![s](https://github.com/user-attachments/assets/8cb30197-2937-4bfd-8817-9e9344c6f827)
+![ss](https://github.com/user-attachments/assets/c8d8c1f2-8acb-4669-93ba-b94679a91c2f)
+
+
 
 ## RESULT
  Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
